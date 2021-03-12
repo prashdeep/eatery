@@ -53,21 +53,21 @@
         "id": 8,
         "name": "Butter Kulcha",
         "calories": 135,
-        "price": 25
+        "price": 25,
         "rating": 3.88,
     },
     {
         "id": 9
         "name": "Bhindi Masala",
         "calories": 220,
-        "price": 180
+        "price": 180,
         "rating": 4.88,
     },
     {
         "id": 10
         "name": "Jeera Rice",
         "calories": 450,
-        "price": 130
+        "price": 130,
         "rating": 4.88,
     }
   ]
