@@ -1,0 +1,74 @@
+{
+    "dishes":[
+    {
+        "id": 1,
+        "name": "Masala-Dosa",
+        "calories": 350,
+        "price": 30,
+        "rating": 4.367,
+    },
+    {
+        "id": 2,
+        "name": "Paneer Tikka Masala",
+        "calories": 250,
+        "price": 150,
+        "rating": 4.668,
+    },
+    {
+        "id": 3,
+        "name": "Aloo Matar",
+        "calories": 500,
+        "price": 75,
+        "rating": 3.668,
+    },
+    {
+        "id": 4,
+        "name": "Kadai Paneer",
+        "calories": 200,
+        "price": 120,
+        "rating": 4.8,
+    },
+    {
+        "id": 5,
+        "name": "Matar paneer",
+        "calories": 280,
+        "price": 120,
+        "rating": 4.8,
+    },
+    {
+        "id": 6,
+        "name": "Butter Naan",
+        "calories": 100,
+        "price": 30,
+        "rating": 5.0,
+    },
+    {
+        "id": 7,
+        "name": "Rumaali Roti",
+        "calories": 120,
+        "price": 34,
+        "rating": 4.0,
+    },
+    {
+        "id": 8,
+        "name": "Butter Kulcha",
+        "calories": 135,
+        "price": 25
+        "rating": 3.88,
+    },
+    {
+        "id": 9
+        "name": "Bhindi Masala",
+        "calories": 220,
+        "price": 180
+        "rating": 4.88,
+    },
+    {
+        "id": 10
+        "name": "Jeera Rice",
+        "calories": 450,
+        "price": 130
+        "rating": 4.88,
+    }
+  ]
+}
