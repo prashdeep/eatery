@@ -57,14 +57,14 @@
         "rating": 3.88,
     },
     {
-        "id": 9
+        "id": 9,
         "name": "Bhindi Masala",
         "calories": 220,
         "price": 180,
         "rating": 4.88,
     },
     {
-        "id": 10
+        "id": 10,
         "name": "Jeera Rice",
         "calories": 450,
         "price": 130,
